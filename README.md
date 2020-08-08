@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Renata, a transgender woman who has (:computer:) coding as one interest among a lot others.
+
 <!--
 **rabreu/rabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:+1: things I like:
+:+1: other stuff I like:
 
-- :computer: coding (duh)
+-  coding (duh)
 - :video_game: video games
 - :headphones: music
 - :eggplant: veggie cuisine
 - :cat: cats
+- tattoos / piercings
+
+:-1: things I dislike:
+- :expressionless: TODO
