@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 :+1: other stuff I like:
 
--  coding (duh)
 - :video_game: video games
 - :headphones: music
 - :eggplant: veggie cuisine
