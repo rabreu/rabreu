@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 :+1: things I like:
 
-:computer: coding
-:video_game: video games
-:headphones: music
-:eggplant: veggie cuisine
-:cat: cats
+- :computer: coding (duh)
+- :video_game: video games
+- :headphones: music
+- :eggplant: veggie cuisine
+- :cat: cats
