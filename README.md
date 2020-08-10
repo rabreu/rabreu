@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - :headphones: music
 - :eggplant: veggie cuisine
 - :cat: cats
-- :art: tattoos / piercings
+- :art: tattoos
+- :ring: piercings
 
 :-1: things I dislike:
 - :no_entry_sign: fascism
