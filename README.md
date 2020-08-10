@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :+1: other stuff I like:
 
-- :video_game: video games
+- :video_game: gaming
 - :headphones: music
 - :eggplant: veggie cuisine
 - :cat: cats
