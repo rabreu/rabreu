@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - :video_game: gaming
 - :headphones: music
+- :coffee: coffee
 - :eggplant: veggie cuisine
 - :cat: cats
 - :art: tattoos
