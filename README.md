@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - :video_game: gaming
 - :headphones: music
 - :coffee: coffee
+- :beer: beer
 - :eggplant: veggie cuisine
 - :cat: cats
 - :art: tattoos
